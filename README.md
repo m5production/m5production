@@ -25,7 +25,8 @@
 ![Figma](https://img.shields.io/badge/figma-21AE34.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 #### Certificates:
-[RS School Front-End](https://app.rs.school/certificate/yo4ro8ii)
+[RS School Front-End](https://app.rs.school/certificate/yo4ro8ii)  
+[Programming Fundamentals](https://stepik.org/cert/334114)
 
 #### My projects:
 [E-commerce app](https://github.com/mamont79/eCommerce-Application)
