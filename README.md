@@ -31,7 +31,7 @@
 #### My projects:
 [Clone-kahoot](https://dimetriyo.github.io/clone-kahoot/)
 
-![image](https://github.com/user-attachments/assets/d7671915-b1b2-4d32-9d44-007c8a355364)
+![Clone-kahoot-minified](https://github.com/user-attachments/assets/779f7d60-530c-487a-9875-cbadeec15e46)
 
 SPA on react with self-made backend (https://github.com/m5production/clone-kahoot-backend) hosted on Amvera, with Websocket, Shadcn, React-query, React-hook-form and Axios.
 
