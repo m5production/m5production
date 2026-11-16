@@ -9,7 +9,7 @@
 - Open to remote full-time or contractor roles
 
 #### Contacts
-[Email](mailto:dimikh.work@gmail.com) · [Telegram](https://t.me/m5production86)
+[Email](mailto:dimikh.work@gmail.com) · [Telegram](https://t.me/m5production86) · [Resume (PDF)](resume/Dmitry_Mikheev_Frontend_Engineer.pdf)
 
 #### Skills
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
