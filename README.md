@@ -1,60 +1,64 @@
 ## Hi there! 👋
 
-### My name is Dmitry and I'm Frontend Developer 🚀
+### I'm Dmitry, a Frontend Engineer (React, TypeScript) 🚀
 
-#### Facts about me:
-  - Proactive
-  - English: C1
-  - Love learning, programming and being creative
+- Nearly 3 years of commercial frontend experience in remote, cross-functional product teams
+- Main frontend contributor on **WatchLink**, a social network and marketplace for watch collectors: real-time chat, auctions, subscriptions
+- AI-assisted, human-reviewed development: custom Claude Code skills, MCP integrations with Jira and Figma, shared AI rules for the team
+- 11 years as a technical translator and interpreter before engineering, 4 of them leading a group of 11. English: C1
+- Open to remote full-time or contractor roles
 
-#### Contacts:  
-[Telegram](https://t.me/m5production86)  
-[E-mail](dimikh@mail.ru)
+#### Contacts
+[Email](mailto:dimikh.work@gmail.com) · [Telegram](https://t.me/m5production86)
 
-#### My skills:
-![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeSctipt-3178c6?style=for-the-badge&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![HTML](https://img.shields.io/badge/html-DC6430.svg?style=for-the-badge&logo=html&logoColor=white)
-![CSS](https://img.shields.io/badge/css-3030DC.svg?style=for-the-badge&logo=css&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Git](https://img.shields.io/badge/git-FFFFFF.svg?style=for-the-badge&logo=git&logoColor=black)
-![GitHub](https://img.shields.io/badge/github-26A6E6.svg?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-21AE34.svg?style=for-the-badge&logo=figma&logoColor=white)
+#### Skills
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-21AE34?style=for-the-badge&logo=figma&logoColor=white)
 
-#### Certificates:
-[RS School Front-End](https://app.rs.school/certificate/yo4ro8ii)  
-[Programming Fundamentals](https://stepik.org/cert/334114)
+#### Projects
 
-#### My projects:
-[Clone-kahoot](https://dimetriyo.github.io/clone-kahoot/)
+**[Clone-Kahoot](https://github.com/m5production/clone-kahoot)** · [demo](https://dimetriyo.github.io/clone-kahoot/) · [backend](https://github.com/m5production/clone-kahoot-backend)
 
-![Clone-kahoot-minified](https://github.com/user-attachments/assets/779f7d60-530c-487a-9875-cbadeec15e46)
+![Clone-Kahoot](https://github.com/user-attachments/assets/779f7d60-530c-487a-9875-cbadeec15e46)
 
-SPA on react with self-made backend (https://github.com/m5production/clone-kahoot-backend) hosted on Amvera, with Websocket, Shadcn, React-query, React-hook-form and Axios.
+Full-stack real-time quiz game: the host builds a quiz and runs it live, players join and answer in real time.  
+**Stack**: React, TypeScript, Vite, TanStack Query, React Hook Form, Tailwind CSS, shadcn/ui · Node.js, Express, WebSocket (ws), Prisma, SQLite, Docker
 
-[E-commerce app](https://github.com/mamont79/eCommerce-Application)
+**[E-commerce app](https://github.com/mamont79/eCommerce-Application)**
 
-![alt text](assets/ecommerce.jpg)
+![E-commerce app](assets/ecommerce.jpg)
 
-SPA(single page application) on React made in a team of 3 with several pages and forms etc.  
-**Stack**: React, Redux, React Router 6, Typescript, Vite, Formik, Axios, SPA, Husky, StyledComponents, Vitest, Git, HTML, CSS
+SPA built in a team of 3: catalog, product pages, forms.  
+**Stack**: React, Redux, React Router 6, TypeScript, Vite, Formik, Axios, Styled Components, Vitest, Husky
 
+**[Pokémon memo game](https://github.com/m5production/pokemon-memo-game)**
 
-[Pockemon memo game](https://github.com/m5production/pokemon-memo-game)
+![Pokémon memo game](assets/pockemon-memo-1.jpg)
+![Pokémon memo game](assets/pockemon-memo-2.jpg)
 
-![alt text](assets/pockemon-memo-1.jpg)
-![alt text](assets/pockemon-memo-2.jpg)
+Memory card game with animations.  
+**Stack**: React, Redux, TypeScript, Vite
 
-SPA(single page application) on React with animations  
-**Stack**: React, Redux, Typescript, Vite, SPA, Git, HTML, CSS
+**[Minesweeper](https://github.com/m5production/Minesweeper)**
 
+![Minesweeper](assets/minesweeper.jpg)
 
-[MineSweeper](https://github.com/m5production/Minesweeper)
+Classic game on vanilla TypeScript with self-made class-based components.  
+**Stack**: TypeScript, Webpack
 
-![alt text](assets/minesweeper.jpg)
-
-SPA(single page application) on Vanilla TS with selfmade class-components  
-**Stack**: JS, Webpack, SPA, Git, HTML, CSS
+#### Certificates
+[RS School — JavaScript/Front-end](https://app.rs.school/certificate/yo4ro8ii)
