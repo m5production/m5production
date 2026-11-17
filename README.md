@@ -3,7 +3,7 @@
 ### I'm Dmitry, a Frontend Engineer (React, TypeScript) 🚀
 
 - Nearly 3 years of commercial frontend experience in remote, cross-functional product teams
-- Main frontend contributor on **WatchLink**, a social network and marketplace for watch collectors: real-time chat, auctions, subscriptions
+- Main frontend contributor on a social network and marketplace for watch collectors (NDA): real-time chat, auctions, subscriptions
 - AI-assisted, human-reviewed development: custom Claude Code skills, MCP integrations with Jira and Figma, shared AI rules for the team
 - 11 years as a technical translator and interpreter before engineering, 4 of them leading a group of 11. English: C1
 - Open to remote full-time or contractor roles
