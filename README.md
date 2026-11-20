@@ -23,20 +23,22 @@
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-21AE34?style=for-the-badge&logo=figma&logoColor=white)
 
 #### Projects
 
-**[Clone-Kahoot](https://github.com/m5production/clone-kahoot)** · [demo](https://dimetriyo.github.io/clone-kahoot/) · [backend](https://github.com/m5production/clone-kahoot-backend)
+**[Clone-Kahoot](https://github.com/m5production/clone-kahoot)** · [demo](https://m5production.github.io/clone-kahoot/) · [backend](https://github.com/m5production/clone-kahoot-backend) · [docs](https://github.com/m5production/clone-kahoot-docs)
 
 ![Clone-Kahoot](https://github.com/user-attachments/assets/779f7d60-530c-487a-9875-cbadeec15e46)
 
 Full-stack real-time quiz game: the host builds a quiz and runs it live, players join and answer in real time.  
-**Stack**: React, TypeScript, Vite, TanStack Query, React Hook Form, Tailwind CSS, shadcn/ui · Node.js, Express, WebSocket (ws), Prisma, SQLite, Docker
+**Stack**: React, TypeScript, Vite, TanStack Query, React Hook Form, Tailwind CSS, shadcn/ui · Node.js, NestJS, WebSocket (ws), Prisma, PostgreSQL, Docker
 
 **[E-commerce app](https://github.com/mamont79/eCommerce-Application)**
 
